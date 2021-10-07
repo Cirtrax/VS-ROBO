@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RainCode2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="raincode20000" x="0" y="0" width="0" height="0" frameX="191" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20001" x="0" y="0" width="0" height="0" frameX="191" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20002" x="0" y="0" width="0" height="0" frameX="191" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20003" x="0" y="0" width="0" height="0" frameX="191" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20004" x="0" y="0" width="0" height="0" frameX="191" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20005" x="0" y="0" width="0" height="0" frameX="191" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20006" x="0" y="0" width="0" height="0" frameX="191" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20007" x="0" y="0" width="0" height="0" frameX="191" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20008" x="0" y="0" width="0" height="0" frameX="191" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20009" x="0" y="0" width="0" height="0" frameX="191" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20010" x="0" y="0" width="0" height="0" frameX="191" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20011" x="0" y="0" width="0" height="0" frameX="191" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20012" x="0" y="0" width="0" height="0" frameX="191" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20013" x="0" y="0" width="0" height="0" frameX="191" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20014" x="0" y="0" width="0" height="0" frameX="191" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20015" x="0" y="0" width="0" height="0" frameX="191" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20016" x="0" y="0" width="0" height="0" frameX="191" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20017" x="0" y="0" width="0" height="0" frameX="191" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20018" x="10" y="0" width="100" height="122" frameX="-495" frameY="-67" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20019" x="120" y="0" width="1157" height="183" frameX="-171" frameY="-16" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20020" x="1287" y="0" width="1157" height="264" frameX="-171" frameY="-16" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20021" x="2454" y="0" width="1157" height="274" frameX="-170" frameY="-16" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20022" x="3621" y="0" width="1436" height="341" frameX="-170" frameY="-16" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20023" x="5067" y="0" width="1604" height="351" frameX="-2" frameY="-16" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20024" x="0" y="361" width="1604" height="443" frameX="-2" frameY="-10" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20025" x="1614" y="361" width="1606" height="463" frameX="0" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20026" x="3230" y="361" width="1606" height="547" frameX="0" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20027" x="4846" y="361" width="1606" height="558" frameX="0" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20028" x="6462" y="361" width="1606" height="638" frameX="0" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20029" x="0" y="1009" width="1606" height="648" frameX="0" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20030" x="1616" y="1009" width="1607" height="725" frameX="0" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20031" x="3233" y="1009" width="1607" height="735" frameX="0" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20032" x="4850" y="1009" width="1607" height="809" frameX="0" frameY="0" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20033" x="6467" y="1009" width="1606" height="813" frameX="-1" frameY="-6" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20034" x="0" y="1832" width="1607" height="892" frameX="-1" frameY="-6" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20035" x="1617" y="1832" width="1607" height="813" frameX="-1" frameY="-95" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20036" x="3234" y="1832" width="1607" height="891" frameX="-1" frameY="-95" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20037" x="4851" y="1832" width="1607" height="822" frameX="-1" frameY="-174" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20038" x="6468" y="1832" width="1607" height="902" frameX="-1" frameY="-174" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20039" x="0" y="2744" width="1607" height="818" frameX="-1" frameY="-268" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20040" x="1617" y="2744" width="1608" height="895" frameX="-1" frameY="-268" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20041" x="3235" y="2744" width="1606" height="810" frameX="-3" frameY="-363" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20042" x="4851" y="2744" width="1606" height="889" frameX="-3" frameY="-363" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20043" x="6467" y="2744" width="1606" height="809" frameX="-3" frameY="-453" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20044" x="0" y="3649" width="1607" height="881" frameX="-3" frameY="-453" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20045" x="1617" y="3649" width="1607" height="802" frameX="-3" frameY="-542" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20046" x="3234" y="3649" width="1607" height="802" frameX="-3" frameY="-542" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20047" x="4851" y="3649" width="1607" height="718" frameX="-3" frameY="-626" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20048" x="6468" y="3649" width="1607" height="718" frameX="-3" frameY="-626" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20049" x="0" y="4540" width="1607" height="630" frameX="-3" frameY="-714" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20050" x="1617" y="4540" width="1607" height="710" frameX="-3" frameY="-714" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20051" x="3234" y="4540" width="1606" height="623" frameX="-4" frameY="-801" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20052" x="4850" y="4540" width="1606" height="623" frameX="-4" frameY="-801" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20053" x="6466" y="4540" width="1606" height="532" frameX="-4" frameY="-892" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20054" x="0" y="5260" width="1605" height="532" frameX="-4" frameY="-892" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20055" x="1615" y="5260" width="1605" height="445" frameX="-4" frameY="-979" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20056" x="3230" y="5260" width="1229" height="445" frameX="-4" frameY="-979" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20057" x="4469" y="5260" width="990" height="357" frameX="-242" frameY="-1067" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20058" x="5469" y="5260" width="990" height="192" frameX="-242" frameY="-1067" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20059" x="6469" y="5260" width="88" height="109" frameX="-242" frameY="-1150" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20060" x="6469" y="5260" width="88" height="109" frameX="-242" frameY="-1150" frameWidth="1610" frameHeight="1424"/>
+	<SubTexture name="raincode20061" x="0" y="0" width="0" height="0" frameX="191" frameY="0" frameWidth="1610" frameHeight="1424"/>
+</TextureAtlas>

@@ -1,0 +1,3 @@
+Zapped:robo:2
+Charged:robo:2
+Overload:robo:2

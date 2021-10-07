@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logo_bump_robo.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FNF ROBO0000" x="0" y="0" width="665" height="552" frameX="-24" frameY="-17" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0001" x="0" y="0" width="665" height="552" frameX="-24" frameY="-17" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0002" x="0" y="562" width="714" height="587"/>
+	<SubTexture name="FNF ROBO0003" x="0" y="562" width="714" height="587"/>
+	<SubTexture name="FNF ROBO0004" x="0" y="1159" width="678" height="562" frameX="-18" frameY="-12" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0005" x="0" y="1731" width="678" height="562" frameX="-18" frameY="-12" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0006" x="0" y="2303" width="696" height="573" frameX="-9" frameY="-7" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0007" x="0" y="2886" width="696" height="573" frameX="-9" frameY="-7" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0008" x="0" y="2886" width="696" height="573" frameX="-9" frameY="-7" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0009" x="0" y="3469" width="696" height="573" frameX="-9" frameY="-7" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0010" x="0" y="3469" width="696" height="573" frameX="-9" frameY="-7" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0011" x="0" y="3469" width="696" height="573" frameX="-9" frameY="-7" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0012" x="0" y="3469" width="696" height="573" frameX="-9" frameY="-7" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0013" x="0" y="3469" width="696" height="573" frameX="-9" frameY="-7" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0014" x="0" y="3469" width="696" height="573" frameX="-9" frameY="-7" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0015" x="0" y="3469" width="696" height="573" frameX="-9" frameY="-7" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0016" x="0" y="3469" width="696" height="573" frameX="-9" frameY="-7" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0017" x="0" y="3469" width="696" height="573" frameX="-9" frameY="-7" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0018" x="0" y="3469" width="696" height="573" frameX="-9" frameY="-7" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0019" x="0" y="3469" width="696" height="573" frameX="-9" frameY="-7" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0020" x="0" y="3469" width="696" height="573" frameX="-9" frameY="-7" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0021" x="0" y="3469" width="696" height="573" frameX="-9" frameY="-7" frameWidth="714" frameHeight="587"/>
+	<SubTexture name="FNF ROBO0022" x="0" y="3469" width="696" height="573" frameX="-9" frameY="-7" frameWidth="714" frameHeight="587"/>
+</TextureAtlas>
