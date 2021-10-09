@@ -449,7 +449,7 @@ class TitleState extends MusicBeatState
 			case 17:
 				createCoolText(['cool programming', 'by']);
 			case 18:
-				addMoreText('avery');
+				addMoreText('avery and pj');
 			case 19:
 				deleteCoolText();
 			case 21:

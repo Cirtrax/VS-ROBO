@@ -393,11 +393,11 @@ class Character extends FlxSprite
 				// DAD ANIMATION LOADING CODE
 				tex = Paths.getSparrowAtlas('robo/robo', 'shared');
 				frames = tex;
-				animation.addByPrefix('idle', 'robo idle', 24);
-				animation.addByPrefix('singUP', 'robo up', 24);
-				animation.addByPrefix('singRIGHT', 'robo right', 24);
-				animation.addByPrefix('singDOWN', 'robo down', 24);
-				animation.addByPrefix('singLEFT', 'robo left', 24);
+				animation.addByPrefix('idle', 'robo idle', 24, false);
+				animation.addByPrefix('singUP', 'robo up', 24, false);
+				animation.addByPrefix('singRIGHT', 'robo right', 24, false);
+				animation.addByPrefix('singDOWN', 'robo down', 24, false);
+				animation.addByPrefix('singLEFT', 'robo left', 24, false);
 
 				addOffset("singUP", 28, 228);
 				addOffset("singRIGHT", 22, 0);
@@ -412,11 +412,11 @@ class Character extends FlxSprite
 				// DAD ANIMATION LOADING CODE
 				tex = Paths.getSparrowAtlas('robo/Big_Robo', 'shared');
 				frames = tex;
-				animation.addByPrefix('idle', 'b robo idle', 24);
-				animation.addByPrefix('singUP', 'b robo up', 24);
-				animation.addByPrefix('singRIGHT', 'b robo right', 24);
-				animation.addByPrefix('singDOWN', 'b robo down', 24);
-				animation.addByPrefix('singLEFT', 'b robo left', 24);
+				animation.addByPrefix('idle', 'b robo idle', 24, false);
+				animation.addByPrefix('singUP', 'b robo up', 24, false);
+				animation.addByPrefix('singRIGHT', 'b robo right', 24, false);
+				animation.addByPrefix('singDOWN', 'b robo down', 24, false);
+				animation.addByPrefix('singLEFT', 'b robo left', 24, false);
 
 				addOffset("singUP", 125, 159);
 				addOffset("singRIGHT", -151, 45);

@@ -476,6 +476,10 @@ class PlayState extends MusicBeatState
 				dialogue = CoolUtil.coolTextFile(Paths.txt('data/roses/rosesDialogue'));
 			case 'thorns':
 				dialogue = CoolUtil.coolTextFile(Paths.txt('data/thorns/thornsDialogue'));
+			case 'zapped':
+				dialogue = CoolUtil.coolTextFile(Paths.txt('data/zapped/zappedDialogue'));
+			case 'charged':
+				dialogue = CoolUtil.coolTextFile(Paths.txt('data/charged/chargedDialogue'));
 		}
 
 		// defaults if no stage was found in chart
@@ -1417,6 +1421,10 @@ class PlayState extends MusicBeatState
 					schoolIntro(doof);
 				case 'thorns':
 					schoolIntro(doof);
+				case 'zapped':
+					normalIntro(doof);
+				case 'charged':
+					normalIntro(doof);
 				default:
 					startCountdown();
 			}
@@ -1519,6 +1527,15 @@ class PlayState extends MusicBeatState
 		});
 	}
 
+	function normalIntro(?dialogueBox:DialogueBox):Void {
+		if (dialogueBox != null)
+			{
+				add(dialogueBox);
+			}
+		
+	}
+
+
 	var startTimer:FlxTimer;
 	var perfectMode:Bool = false;
 
@@ -1591,7 +1608,6 @@ class PlayState extends MusicBeatState
 
 		startTimer = new FlxTimer().start(Conductor.crochet / 1000, function(tmr:FlxTimer)
 		{
-			dad.dance();
 			gf.dance();
 			boyfriend.playAnim('idle');
 
@@ -4609,9 +4625,15 @@ class PlayState extends MusicBeatState
 			// Conductor.changeBPM(SONG.bpm);
 
 			// Dad doesnt interupt his own notes
-			if ((SONG.notes[Math.floor(curStep / 16)].mustHitSection || !dad.animation.curAnim.name.startsWith("sing")) && dad.curCharacter != 'gf')
-				if (curBeat % idleBeat == 0 || dad.curCharacter == "spooky")
+			if (SONG.notes[Math.floor(curStep / 16)].mustHitSection && !dad.animation.curAnim.name.startsWith("sing") && dad.curCharacter != 'gf' && curBeat % idleBeat == 2)
+				{
 					dad.dance(idleToBeat);
+				}
+			else if (!SONG.notes[Math.floor(curStep / 16)].mustHitSection && !dad.animation.curAnim.name.startsWith("sing") && dad.curCharacter != 'gf' && curBeat % idleBeat == 2)
+				{
+					dad.dance(idleToBeat);
+				}
+					
 		}
 		// FlxG.log.add('change bpm' + SONG.notes[Std.int(curStep / 16)].changeBPM);
 		wiggleShit.update(Conductor.crochet);
@@ -4654,11 +4676,10 @@ class PlayState extends MusicBeatState
 			gf.dance();
 		}
 
-		if (!boyfriend.animation.curAnim.name.startsWith("sing") && curBeat % idleBeat == 0)
+		if (!boyfriend.animation.curAnim.name.startsWith("sing") && curBeat % idleBeat == 2)
 		{
 			boyfriend.playAnim('idle', idleToBeat);
 		}
-
 		/*if (!dad.animation.curAnim.name.startsWith("sing"))
 		{
 			dad.dance();
