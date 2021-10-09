@@ -4556,6 +4556,19 @@ class PlayState extends MusicBeatState
 			resyncVocals();
 		}
 
+		var stepOfLast = 0;
+
+		if (dad.curCharacter == 'roboBig' && SONG.song.toLowerCase() == 'overload')
+            {
+                switch (curStep)
+                {
+                    case 1531:
+                        boyfriend.playAnim('hey', true);
+                }
+
+
+            }
+
 		#if windows
 		if (executeModchart && luaModchart != null)
 		{
