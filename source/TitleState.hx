@@ -105,7 +105,7 @@ class TitleState extends MusicBeatState
 		new FlxTimer().start(1, function(tmr:FlxTimer)
 		{
 			startIntro();
-		});
+		});	
 		#else
 		startIntro();
 		#end
@@ -129,10 +129,9 @@ class TitleState extends MusicBeatState
 		add(bg);
 
 		if (Main.watermarks) {
-			logoBl = new FlxSprite(-150, 1300);
+			logoBl = new FlxSprite(350, 1250);
 			logoBl.frames = Paths.getSparrowAtlas('logo_bump_robo');
 			logoBl.setGraphicSize(Std.int(logoBl.width * 0.8));
-			logoBl.screenCenter(X);
 		} else {
 			logoBl = new FlxSprite(-150, 0);
 			logoBl.frames = Paths.getSparrowAtlas('logo_bump_robo');
@@ -490,7 +489,7 @@ class TitleState extends MusicBeatState
 			FlxG.camera.flash(FlxColor.WHITE, 4);
 			remove(credGroup);
 
-			FlxTween.tween(logoBl,{y: 0}, 1.4, {ease: FlxEase.expoInOut});
+			FlxTween.tween(logoBl,{y: 20}, 1.4, {ease: FlxEase.expoInOut});
 
 			logoBl.angle = -4;
 
